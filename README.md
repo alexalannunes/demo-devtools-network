@@ -5,7 +5,7 @@ demonstrating how the devtools network could be
 In this video I'd like to demonstrate how I would like network could be
 
 
-I just jump the first 18s with normal network, but when the first assets appears I'd like to control network speed with a slider o toggle button do debug my loaders indicators
+I wanna just jump the first 18s with normal network, but when the first assets appears I'd like to control network speed with a slider o toggle button do debug my loaders indicators
 
 
 :fire: observe request time
