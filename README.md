@@ -2,6 +2,11 @@
 demonstrating how the devtools network could be
 
 
+request:
+
+https://bugs.chromium.org/p/chromium/issues/detail?id=1441978
+
+
 In this video I'd like to demonstrate how I would like network could be
 
 
